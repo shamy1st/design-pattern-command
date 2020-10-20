@@ -9,7 +9,7 @@ You have GUI **Button** and you want to separate **click action** from Button im
         private String label;
 
         public void click() {
-            **//You don't know the action at the time of Button implementation!**
+            //You don't know the action at the time of Button implementation!
         }
 
         public String getLabel() {
