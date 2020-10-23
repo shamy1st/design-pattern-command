@@ -1,6 +1,6 @@
 # Command Design Pattern (Java Implementation)
 
-**Command** object is used to encapsulate all information needed to perform an action at a later time. ([wiki](https://en.wikipedia.org/wiki/Command_pattern))
+**Command** object is used to encapsulate all information needed to perform an action at a later time.
 ![](https://github.com/shamy1st/design-pattern-command-java/blob/main/command-uml.png)
 ### Problem: 
 You have GUI **Button** and you want to separate **click action** from Button implementation.
