@@ -1,4 +1,4 @@
-# Command Design Pattern (Java Implementation)
+# Command Design Pattern (Java)
 
 **Command** object used to perform an action at a later time.
 ![](https://github.com/shamy1st/design-pattern-command-java/blob/main/command-uml.png)
