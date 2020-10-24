@@ -1,7 +1,7 @@
 # Command Design Pattern (Java)
 
 **Command** object used to perform an action at a later time.
-![](https://github.com/shamy1st/design-pattern-command-java/blob/main/command-uml.png)
+![](https://github.com/shamy1st/design-pattern-command/blob/main/uml.png)
 ### Problem: 
 You have GUI **Button** and you want to separate **click action** from Button implementation.
 
@@ -22,4 +22,4 @@ You have GUI **Button** and you want to separate **click action** from Button im
     }
 
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-command-java/blob/main/command-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-command/blob/main/uml-solution.png)
